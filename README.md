@@ -1,7 +1,7 @@
 <h1 align="center"> Doctor Who App</h1>
 
 <p align="center">
-Aplicativo Android baseado na <strong>Doctor Who API</strong>, criado como projeto escolar para demonstrar o uso de APIs, orientação a objetos e organização modular.  
+Aplicativo Android baseado na <strong>Doctor Who API</strong>, criado para demonstrar o uso de APIs e orientação a objetos.  
 </p>
 
 ---
