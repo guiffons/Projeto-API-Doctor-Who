@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Daleks",
+    "info": "Um dos inimigos mais antigos do Doctor. Criaturas presas em tanques metálicos que só pensam em exterminar tudo que consideram inferior.",
+    "img": "daleks.png"
+  },
+  {
+    "id": "2",
+    "name": "O Mestre",
+    "info": "Time Lord renegado e arqui-inimigo do Doctor. Usa manipulação, inteligência e regenerações inesperadas para desafiar o Doctor.",
+    "img": "master.png"
+  },
+  {
+    "id": "3",
+    "name": "Cybermen",
+    "info": "Seres convertidos em corpos metálicos sem emoção. Buscam transformar outras espécies em Cybermen para atingir sua 'evolução'.",
+    "img": "cyberman.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Toymaker Celestial",
+    "info": "Entidade poderosa que aprisiona pessoas em jogos mortais. Se você perde, fica preso para sempre no mundo dele.",
+    "img": "toymaker.jpg"
+  },
+  {
+    "id": "5",
+    "name": "A Besta",
+    "info": "Criatura antiga associada às lendas sobre o Diabo. Vive aprisionada e manipula o medo e a fé das pessoas.",
+    "img": "beast.webp"
+  },
+  {
+    "id": "6",
+    "name": "Anjos Lamentadores",
+    "info": "Estátuas que só se movem quando ninguém está olhando. Mandam as vítimas para o passado e se alimentam da energia temporal.",
+    "img": "WeepingAngels.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Sontarans",
+    "info": "Raça guerreira clonada, focada em batalha e honra. Vivem para guerrear e testar estratégias militares.",
+    "img": "sontarans.jpg"
+  }
+]

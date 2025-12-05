@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "1º Doutor",
+    "info": "Primeira encarnação do Doctor. Mais velho, sério e meio rabugento, com cara de avô que não explica tudo, mas sempre sabe o que está fazendo.",
+    "img": "doctor1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "2º Doutor",
+    "info": "Versão mais bagunçada e engraçada. Faz papel de bobo às vezes, mas é bem inteligente e usa isso para enganar os inimigos.",
+    "img": "doctor2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "3º Doutor",
+    "info": "Elegante, cheio de estilo, dirige um carro amarelo e luta usando artes marciais. Passa muito tempo na Terra ajudando a UNIT.",
+    "img": "doctor3.png"
+  },
+  {
+    "id": "4",
+    "name": "4º Doutor",
+    "info": "Um dos mais famosos. Tem o cachecol gigante, cabelo enrolado e sempre oferece doces. Mistura humor com momentos bem sérios.",
+    "img": "doctor4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "5º Doutor",
+    "info": "Doctor mais jovem da fase clássica. Usa roupa de jogador de críquete e um talo de aipo na lapela. Normalmente é calmo e bem humano nas decisões.",
+    "img": "doctor5.png"
+  },
+  {
+    "id": "6",
+    "name": "6º Doutor",
+    "info": "Usa um casaco super colorido e tem personalidade forte. Às vezes parece arrogante, mas se importa com o que é certo.",
+    "img": "doctor6.png"
+  },
+  {
+    "id": "7",
+    "name": "7º Doutor",
+    "info": "Começa mais engraçado, mas depois fica mais misterioso e estrategista, sempre planejando tudo por trás dos panos.",
+    "img": "doctor7.jpg"
+  },
+  {
+    "id": "8",
+    "name": "8º Doutor",
+    "info": "Aparece principalmente no filme de 1996. Tem visual mais romântico e vitoriano, e é um Doctor curioso e sonhador.",
+    "img": "doctor8.jpg"
+  },
+  {
+    "id": "9",
+    "name": "9º Doutor",
+    "info": "Primeiro Doctor da fase moderna. Usa jaqueta de couro, é direto e carrega o peso da Guerra do Tempo, mas continua fazendo piada.",
+    "img": "doctor9.jpg"
+  },
+  {
+    "id": "10",
+    "name": "10º Doutor",
+    "info": "Muito carismático, cheio de frases marcantes e energia. Usa terno com tênis e é um dos favoritos dos fãs pela mistura de humor e drama.",
+    "img": "doctor10.jpg"
+  },
+  {
+    "id": "11",
+    "name": "11º Doutor",
+    "info": "Age como se fosse muito jovem, mas já viveu séculos. Gosta de gravata borboleta e fala rápido, deixando tudo mais intenso.",
+    "img": "doctor11.png"
+  },
+  {
+    "id": "12",
+    "name": "12º Doutor",
+    "info": "Mais velho e sério, com cara de professor bravo. Com o tempo fica mais emotivo e preocupado em deixar um legado.",
+    "img": "doctor12.jpg"
+  },
+  {
+    "id": "13",
+    "name": "13º Doutor",
+    "info": "Primeira versão feminina do Doctor. Animada, curiosa e gosta de resolver tudo em grupo, tratando a TARDIS como uma família.",
+    "img": "doctor13.jpg"
+  },
+  {
+    "id": "14",
+    "name": "14º Doutor",
+    "info": "Nova regeneração ligada a eventos recentes da série. Mistura nostalgia com mudanças e encara as consequências das histórias anteriores.",
+    "img": "doctor14.jpg"
+  }
+]
